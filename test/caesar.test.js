@@ -1,4 +1,5 @@
 // Write const expect = require("chai").expect;
+const expect = require("chai").expect;
 const {caesar} = require("../src/caesar.js");
 
 describe("Checking if the input is valid", () => {
